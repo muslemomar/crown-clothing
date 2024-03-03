@@ -31,8 +31,5 @@ Welcome to Crown Clothing, a full-stack ecommerce application designed to provid
 
 1. Clone the repository.
 2. Install dependencies using npm or yarn: `npm install` or `yarn`
-3. Set up environment variables:
-    - Create a `.env` file in the root directory
-    - Add your Stripe API keys to the `.env` file
-4. Start the development server: `npm start` or `yarn start`
-5. Open your browser and visit `http://localhost:3000`
+3. Start the development server: `npm start` or `yarn start`
+4. Open your browser and visit `http://localhost:3000`
