@@ -2,6 +2,8 @@
 
 Welcome to Crown Clothing, a full-stack ecommerce application designed to provide users with a seamless shopping experience. This project incorporates user authentication, online payment processing, and large-scale architecture for robust performance. Built with React, Redux, Typescript, GraphQL, and various other technologies, Crown Clothing offers a modern and feature-rich platform for both customers and administrators.
 
+### Live preview: https://magical-duckanoo-cb7b70.netlify.app
+
 ## 💡 Features
 
 - **User Authentication**: Secure user authentication system allowing customers to create accounts, log in, and manage their profiles.
